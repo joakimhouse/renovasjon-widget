@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8" />
+  <title>Tømmekalender 2025</title>
+  <style>
+    body {
+      background: #1a1a1a;
+      color: #e0e0e0;
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1 {
+      text-align: center;
+      font-size: 1.5em;
+      color: #ffffff;
+      margin-bottom: 1em;
+    }
+    .category {
+      margin: 0.5em 0;
+    }
+    .category-name {
+      font-weight: bold;
+      color: #ffffff;
+    }
+    .next-label, .upcoming-label {
+      font-weight: bold;
+      color: #bbbbbb;
+    }
+    .next-date {
+      color: #ffffff;
+      font-weight: bold;
+    }
+    .upcoming-dates {
+      color: #bbbbbb;
+    }
+  </style>
+</head>
+<body>
+  <h1>Tømmekalender 2025</h1>
+  <div class="category">
+    <span class="category-name">Restavfall:</span>
+    <span class="next-label">Neste:</span>
+    <span class="next-date">mandag 6. januar 2025</span><br/>
+    <span class="upcoming-label">Kommende:</span>
+    <span class="upcoming-dates">20. januar, 3. februar, 17. februar, 3. mars, ...</span>
+  </div>
+  <div class="category">
+    <span class="category-name">Matavfall:</span>
+    <span class="next-label">Neste:</span>
+    <span class="next-date">mandag 13. januar 2025</span><br/>
+    <span class="upcoming-label">Kommende:</span>
+    <span class="upcoming-dates">27. januar, 10. februar, 24. februar, 10. mars, ...</span>
+  </div>
+  <div class="category">
+    <span class="category-name">Papir:</span>
+    <span class="next-label">Neste:</span>
+    <span class="next-date">mandag 6. januar 2025</span><br/>
+    <span class="upcoming-label">Kommende:</span>
+    <span class="upcoming-dates">17. februar, 31. mars, 12. mai, 23. juni, 4. august, ...</span>
+  </div>
+  <div class="category">
+    <span class="category-name">Plastemballasje:</span>
+    <span class="next-label">Neste:</span>
+    <span class="next-date">mandag 13. januar 2025</span><br/>
+    <span class="upcoming-label">Kommende:</span>
+    <span class="upcoming-dates">24. februar, 7. april, 19. mai, 30. juni, 11. august, ...</span>
+  </div>
+  <div class="category">
+    <span class="category-name">Glass- og metallemballasje:</span>
+    <span class="next-label">Neste:</span>
+    <span class="next-date">mandag 20. januar 2025</span><br/>
+    <span class="upcoming-label">Kommende:</span>
+    <span class="upcoming-dates">3. mars, 14. april, 26. mai, 7. juli, 18. august, 29. september, ...</span>
+  </div>
+</body>
+</html>
